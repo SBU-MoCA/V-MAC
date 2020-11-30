@@ -1,3 +1,9 @@
 [submodule "V-MAC-Userspace"]
 	path = V-MAC-Userspace
 	url = https://github.com/SBU-MoCA/V-MAC-Userspace
+[submodule "SOC-Firmware"]
+	path = SOC-Firmware
+	url = https://github.com/SBU-MoCA/AR9271-Firmware
+[submodule "Kernel Code"]
+	path = Kernel Code
+	url = https://github.com/SBU-MoCA/V-MAC-Kernel
