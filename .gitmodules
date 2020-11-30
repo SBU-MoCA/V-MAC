@@ -1,0 +1,3 @@
+[submodule "V-MAC-Userspace"]
+	path = V-MAC-Userspace
+	url = https://github.com/SBU-MoCA/V-MAC-Userspace
