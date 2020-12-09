@@ -6,7 +6,8 @@ Please navigate to already-built folder and follow directions in VMAC_Doc.pdf to
 
 ## Support
 
-For any questions/inquiries, please contact mohammed.elbadry@stonybrook.edu
+For any technical questions/inquiries, please contact mohammed.elbadry@stonybrook.edu
+For research collaboration and commercial usage, please contact fan.ye@stonybrook.edu
 
 ## license
 
