@@ -9,7 +9,7 @@ Please navigate to already-built folder and follow directions in VMAC_Doc.pdf to
 For any technical questions/inquiries, please contact mohammed.elbadry@stonybrook.edu
 For research collaboration and commercial usage, please contact fan.ye@stonybrook.edu
 
-## license
+## License
 
 This system is released under cc by-nc-sa 4.0
 
