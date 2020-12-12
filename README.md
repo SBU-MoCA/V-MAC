@@ -26,10 +26,9 @@ Elbadry, Mohammed, Fan Ye, Peter Milder, YuanYuan Yang “Pub/Sub in the Air: AN
 Radio Supporting Robust Multicast in Edge Environments.”, Proceedings of the 5th ACM/IEEE
 Symposium on Edge Computing (2020)
 
-#link
-  http://www.ece.stonybrook.edu/~fanye/papers/sec20-vmac.pdf
+link: http://www.ece.stonybrook.edu/~fanye/papers/sec20-vmac.pdf
 
-#bibtex
+bibtex:
 @inproceedings{vmac,
   title={Pub/Sub in the Air: A Novel Data-centric Radio Supporting Robust Multicast in Edge Environments.},
   author={Elbadry, Mohammed and Ye, Fan and Milder, Peter and Yang, YuanYuan},
