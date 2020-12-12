@@ -4,6 +4,10 @@
 
 Please navigate to already-built folder and follow directions in VMAC_Doc.pdf to get started by running system. To modify any code, please access either userspace, kernel, or firmware for appropriate source codes needed.
 
+## Video Demo
+
+Please see the following video demonstration of V-MAC capabilities vs ad-hoc broadcast: https://www.youtube.com/watch?v=1hotybtY-HQ&feature=youtu.be&ab_channel=MohammedElbadry
+
 ## Support
 
 For any technical questions/inquiries, please contact mohammed.elbadry@stonybrook.edu
