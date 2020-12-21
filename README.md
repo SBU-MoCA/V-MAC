@@ -20,8 +20,8 @@ This system is released under cc by-nc-sa 4.0
 
 ## Reference
 
-Please cite work work while using the system, thank you!
+[[PDF]](http://www.ece.stonybrook.edu/~fanye/papers/sec20-vmac.pdf) Please cite work work while using the system, thank you!
 
 Elbadry, Mohammed, Fan Ye, Peter Milder, YuanYuan Yang “Pub/Sub in the Air: ANovel Data-centric
 Radio Supporting Robust Multicast in Edge Environments.”, Proceedings of the 5th ACM/IEEE
-Symposium on Edge Computing (2020) [PDF](http://www.ece.stonybrook.edu/~fanye/papers/sec20-vmac.pdf)
+Symposium on Edge Computing (2020) 
