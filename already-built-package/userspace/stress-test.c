@@ -1,16 +1,9 @@
 /*
-* Copyright (c) 2017 - 2020, Mohammed Elbadry
-*
-*
-* This file is part of V-MAC (Pub/Sub data-centric Multicast MAC layer)
-*
-* V-MAC is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 
-* 4.0 International License.
-* 
-* You should have received a copy of the license along with this
-* work. If not, see <http://creativecommons.org/licenses/by-nc-sa/4.0/>.
-* 
-*/
+ *      stress-test.c - User space code to run VMAC tests
+ *      Mohammed Elbadry <mohammed.elbadry@stonybrook.edu>
+ *      Tejas Menon  <tejas.menon@stonybrook.edu>
+ *      
+ */
 
 #include <inttypes.h>
 #include <stdio.h>
@@ -59,7 +52,7 @@ pthread_t thread;
 pthread_t sendth;
 pthread_t appth;
 volatile int running2=0;
-volatile int total;
+int total;
 volatile int consumer=0;
 volatile int producer=0;
 int times=0;
