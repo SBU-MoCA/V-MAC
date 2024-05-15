@@ -10,7 +10,7 @@ Please see the following video demonstration of V-MAC capabilities vs ad-hoc bro
 
 ## Support
 
-For any technical questions/inquiries, please contact mohammed.elbadry@stonybrook.edu
+For any technical questions/inquiries, please contact mohammed.0.elbadry@gmail.com
 For research collaboration and commercial usage, please contact fan.ye@stonybrook.edu
 
 ## License
@@ -23,5 +23,5 @@ This system is released under cc by-nc-sa 4.0
 [[PDF]](http://www.ece.stonybrook.edu/~fanye/papers/sec20-vmac.pdf) Please cite work work while using the system, thank you!
 
 Elbadry, Mohammed, Fan Ye, Peter Milder, YuanYuan Yang “Pub/Sub in the Air: ANovel Data-centric
-Radio Supporting Robust Multicast in Edge Environments.”, Proceedings of the 5th ACM/IEEE
+Radio Supporting Robust Multicast in Edge Environments.” Proceedings of the 5th ACM/IEEE
 Symposium on Edge Computing (2020) 
